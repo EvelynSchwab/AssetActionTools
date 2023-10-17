@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AssetActionUtilities",
+	"Description": "A small collection of tools for bulk editing of assets",
+	"Category": "Editor",
+	"CreatedBy": "Evelyn Schwab",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AssetActionUtilities",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
